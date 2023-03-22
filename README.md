@@ -1,5 +1,5 @@
-### Hi there 👋
-## Learning progamming for the first time
+# Hi there 👋
+#### Learning progamming for the first time
 <!--
 **Zuckmantra/Zuckmantra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
