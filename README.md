@@ -1,9 +1,21 @@
-## Bienvenidos
-#### Mi nombre es Harold Gomez, soy estudiante de Ing. de Software
-#### Tengo grandes habiliades como backend, sigo aprendiendo metodos de construccion de software, estrcuturas de datos.
+# Hola! Soy Harold Gomez 👾👾
+Aspiro a ser un desarrollador Full Stack y estoy en camino de desarrolar mi empresa de tecnologia. Me interesa mucho IA, los servicios de la nube y el impactopositivo en el cambi climatico.
 
-#### Actualmente estoy aprendiendo y utilizando algunos de los lenguahes de programacion mas utilizados, como:
+### Habilidades Tecnicas
+<ul>
+  <li>Lenguajes de Programacion: Python, JavaScript</li>
+  <li>Desarrollo Web: HTML, CSS</li>
+  <li>Base de Datos: MYSQL</li>
+  <li>Otros: Git, manejo de sistemas operativos (Windows, Linux)</li>
+</ul>
 
-<span><img src="https://th.bing.com/th/id/R.8c1719d731849436c9b734d7d65e9558?rik=bSbWm6hjVbDSPg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpython-logo-png-big-image-png-2400.png&ehk=QVy%2f7oOiTJ16YDb0ys7dyNAHnvvwPX1WAaD7AvoVnTU%3d&risl=&pid=ImgRaw&r=0" style="width: 50px;"></span>
-<span><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 50px;"></span>
-<span><img src="https://logospng.org/wp-content/uploads/java.png" style="width:50px;"></span>
+> [!TIP]
+> ***"Tatake [戦え]"***
+
+
+<section>
+  <a href="https://github.com/Zuckmantra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuckmantra&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuckmantra&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+  </a>
+</section>
