@@ -1,5 +1,5 @@
 # Hola! Soy Harold Gomez 👾👾
-Aspiro a ser un desarrollador Full Stack y estoy en camino de desarrolar mi empresa de tecnologia. Me interesa mucho IA, los servicios de la nube y el impactopositivo en el cambi climatico.
+Desarrollador Full Stack en proceso y estoy en camino de desarrollar mi empresa de tecnologia. Me interesa mucho IA, los servicios de la nube y el impacto positivo en el cambio climatico.
 
 ### Habilidades Tecnicas
 <ul>
