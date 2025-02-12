@@ -10,7 +10,7 @@ Desarrollador Full Stack en proceso y estoy en camino de desarrollar mi empresa 
 </ul>
 
 > [!TIP]
-> ***"Tatake [戦え]"***
+> ***"Tatakai [戦い]"***
 
 
 <section>
